@@ -1,3 +1,7 @@
+Markdown
+
+https://github.com/saranyarajeshsrkn-0303/HR-Analytics-PowerBI/raw/main/Screenshots/HR%20Analytics%20Dashboard.png
+
 📊 HR Analytics Dashboard – Power BI
 🔎 Project Overview
 
